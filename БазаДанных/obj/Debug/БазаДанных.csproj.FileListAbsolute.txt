@@ -1,0 +1,10 @@
+C:\Users\geopo\Documents\Вуз\DataBase\БазаДанных\БазаДанных\obj\Debug\БазаДанных.csprojAssemblyReference.cache
+C:\Users\geopo\Documents\Вуз\DataBase\БазаДанных\БазаДанных\obj\Debug\БазаДанных.Properties.Resources.resources
+C:\Users\geopo\Documents\Вуз\DataBase\БазаДанных\БазаДанных\obj\Debug\БазаДанных.csproj.GenerateResource.cache
+C:\Users\geopo\Documents\Вуз\DataBase\БазаДанных\БазаДанных\obj\Debug\БазаДанных.csproj.CoreCompileInputs.cache
+C:\Users\geopo\Documents\Вуз\DataBase\БазаДанных\БазаДанных\bin\Debug\БазаДанных.exe.config
+C:\Users\geopo\Documents\Вуз\DataBase\БазаДанных\БазаДанных\bin\Debug\БазаДанных.exe
+C:\Users\geopo\Documents\Вуз\DataBase\БазаДанных\БазаДанных\bin\Debug\БазаДанных.pdb
+C:\Users\geopo\Documents\Вуз\DataBase\БазаДанных\БазаДанных\obj\Debug\БазаДанных.Form1.resources
+C:\Users\geopo\Documents\Вуз\DataBase\БазаДанных\БазаДанных\obj\Debug\БазаДанных.exe
+C:\Users\geopo\Documents\Вуз\DataBase\БазаДанных\БазаДанных\obj\Debug\БазаДанных.pdb

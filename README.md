@@ -1,6 +1,7 @@
 # DataBaseAquapark
 ***Подробное описание в отчете***
 
+## Работа приложения
 ![изображение](https://github.com/Maritornez/DataBaseAquapark/assets/62441435/f59a7c76-dd99-49b2-a2e1-11d01bbfc989)
 
 ![изображение](https://github.com/Maritornez/DataBaseAquapark/assets/62441435/e7db3789-f54f-4b86-96ef-dec2e1dc19f3)
@@ -18,3 +19,7 @@
 ![изображение](https://github.com/Maritornez/DataBaseAquapark/assets/62441435/b3b7f7f3-1b13-4c62-8865-16de0d9cf276)
 
 Список записей о посещении зоны "Водные аттракционы"
+
+## Структура приложения
+![изображение](https://github.com/Maritornez/DataBaseAquapark/assets/62441435/ca9b7a56-cdfa-4061-a696-9d631c646097)
+Структура проекта
